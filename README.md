@@ -6,10 +6,9 @@ The Photo Selector app is a simple Python application that allows users to brows
 
 - Browse through a folder of images one by one.
 - Select images to copy to a "selected" subfolder.
-- Skip images to move them to a "skipped" subfolder.
+- Skip images to copy them to a "skipped" subfolder.
 - Navigate through images using keyboard arrow keys.
 - Full-screen image viewing.
-- Display image metadata and progress information.
 
 ## Requirements
 
