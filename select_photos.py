@@ -116,7 +116,7 @@ class PhotoSelector:
         
         
 # Replace these paths with your source folder and destination subfolder paths
-source_folder = "D:/gezifotoları/norway-sweden"
+source_folder = "REPLACE WITH PATH OF YOUR FOLDER WITH PHOTOS"
 selected_folder = os.path.join(source_folder, "selected")
 skipped_folder = os.path.join(source_folder, "skipped")
 
